@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "name": "projeto inverno",
+      "budget": "5000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": -2220,
+      "services": [
+        {
+          "name": "projeto verão",
+          "cost": "555",
+          "description": "meu novo projeto",
+          "id": "6da96f1d-12bd-4b45-8e9c-dcfe6de3a446"
+        }
+      ],
+      "id": 1,
+      "service": []
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
